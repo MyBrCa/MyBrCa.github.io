@@ -3,7 +3,7 @@
 Machine learning for digital pathology in breast cancer.
 
 <!-- CONFIRM WITH CRMY before publishing: the partner name and the data description below. -->
-A collaboration between [University / School, to be added] and Cancer Research Malaysia (CRMY), the custodian of the MyBrCa cohort.
+A collaboration between University of Nottingham Malaysia (UNM) and Cancer Research Malaysia (CRMY), the custodian of the MyBrCa cohort.
 
 ## Aim
 
@@ -38,7 +38,7 @@ The private repository link shows "404 – page not found" until your invitation
 
 ## Contact
 
-[Supervisor name, role, school, university]. Contact through [university contact page or project email, to be added].
+Dr. Iman Yi Liao, School of Computer and Mathematical Sciences, University of Nottingham Malaysia. Contact through Iman.Liao@nottingham.edu.my.
 
 ## Updates
 
